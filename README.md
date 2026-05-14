@@ -27,6 +27,7 @@ Download link:
 
 [Chinook SQLite Database](https://github.com/lerocha/chinook-database/blob/master/ChinookDatabase/DataSources/Chinook_Sqlite.sqlite?utm_source=chatgpt.com)
 
+https://roadmap.sh/projects/querying-sql-python
 ---
 
 # 🎯 Project Objectives
